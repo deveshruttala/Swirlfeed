@@ -1,0 +1,1 @@
+to use this file first import the social.db file to phpMyadmin and in in register there is a bug with the hover of the link  so remove class= first and id="first"  div elemrnt and do this even with the second
